@@ -1,5 +1,18 @@
 # В этом файле содержаться текста программы, для оптимизации кода.
+import pip._internal as pip
 from termcolor import colored, cprint
+
+def install(package):
+    pip.main(['install',package])
+
+if __name__ == "__main__":
+    try:
+        from termcolor import colored, cprint
+    except ImportError:
+        print("Модуль termcolor не установлен. Производиться установка")
+        install('termcolor')
+        from termcolor import colored, cprint
+        
 #----------------------- BANNER -----------------------
 banner = """                                                                                                         
       # ###         ##### /##        ##### /    ##         #######            #####  #       #######    
@@ -38,3 +51,8 @@ credits = """
                                                                                                          """
 credits_text = """github: https://github.com/webcartel-https \n"""
 colored_credits = colored(credits,"red")
+
+
+# ----------- Russian ----------------
+
+# ----------- Russian ----------------
