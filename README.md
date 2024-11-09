@@ -1,6 +1,62 @@
-CRYSIS PARSER. 
 
-Парсер российских организациий и ИП с портала checko.ru.
+![App Screenshot](https://i.imgur.com/ybsM3MC.png)
 
-(тест. в разработке)
+
+### What is crysis
+
+CRYSIS is a powerful OSINT tool that allows you to find and obtain information about Russian legal entities and individual entrepreneurs.
+
+The script is developed based on the API of the [checko.ru](https://checko.ru) website
+### Features
+
+- Search by ITN (ИНН) (Individual Tax Number), MGRN (ОГРН) (Main Goverment Registration Number)
+- Search by name of organisations and entrepreneurs
+- Search by CEO name 
+- Formatting into a convenient and readable format
+- Search for financial statements for the last 5 years
+
+
+### Installation
+
+You will need an API-key for the script to work.
+
+To get api-key:
+
+    Register on checko.ru
+    Go to your personal account
+    Go to "API"
+    Copy your API-KEY
+    The program will prompt you to enter the key when you first launch it.
+
+
+Install script via git
+
+```bash
+git clone https://github.com/webcartel-https/crysisparser
+cd crysisparser
+```
+    
+### Documentation, Usage, Examples
+
+- [Документация, RU](https://github.com/webcartel-https/crysisparser/wiki/Documentation-%5BENG%5D)
+
+
+- [Documentation, ENG](https://github.com/webcartel-https/crysisparser/wiki/Documentation-%5BENG%5D)
+
+### Authors
+
+- [@webcartel-https](https://www.github.com/webcartel-https)
+
+
+### 🔗 Links
+My TG channel: [Telegram](https://t.me/webcartelhttps)
+
+My email: prvtangl@gmail.com
+
+
+### Support
+
+USDT(TRC20) - ```TXya32VfUp1uevDdxTphNRpxwTNnG6iHvA```
+
+USDT(TON) - ```UQDvLEXWak-33WFF09vAcwBY-gkD-DUFkO-MpjBbIS1sw7O9```
 
