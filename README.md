@@ -58,5 +58,11 @@ My email: prvtangl@gmail.com
 
 USDT(TRC20) - ```TXya32VfUp1uevDdxTphNRpxwTNnG6iHvA```
 
+![изображение](https://github.com/user-attachments/assets/d2910940-27be-4d99-aa78-9dd41d788f55)
+
+
 USDT(TON) - ```UQDvLEXWak-33WFF09vAcwBY-gkD-DUFkO-MpjBbIS1sw7O9```
+
+![изображение](https://github.com/user-attachments/assets/d5ffdb67-c7db-424e-b018-f75c3250d42a)
+
 
