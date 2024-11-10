@@ -66,3 +66,12 @@ USDT(TON) - ```UQDvLEXWak-33WFF09vAcwBY-gkD-DUFkO-MpjBbIS1sw7O9```
 ![изображение](https://github.com/user-attachments/assets/d5ffdb67-c7db-424e-b018-f75c3250d42a)
 
 
+Alternative:
+
+TON - ```UQDvLEXWak-33WFF09vAcwBY-gkD-DUFkO-MpjBbIS1sw7O9```
+
+Bitcoin - ```1JF3rU6vLep3SGpMUrGY5wJddsBRnNQmWU```
+
+![изображение](https://github.com/user-attachments/assets/b9726915-bedb-454e-90dc-05ad6bb63705)
+
+
